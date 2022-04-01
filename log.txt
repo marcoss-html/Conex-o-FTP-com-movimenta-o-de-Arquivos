@@ -1,0 +1,4 @@
+detalhes do erro: name 'a' is not defined
+detalhes do erro: name 'a' is not defined
+detalhes do erro: name 'c' is not defined
+hj
